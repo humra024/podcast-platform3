@@ -47,7 +47,7 @@ const BrowsePodcast = () => {
                 <h5 className="text-start">{title}</h5>
                 <p className="b-p text-start">{uploadedBy.username}</p>
                 <p className="b-p text-start text-muted">{genre}</p> 
-                <Link to={'/play/'+_id} className='btn btn-success b-btn mt-4'>Play Podcast</Link>
+                <Link to={'/play/'+_id} className='btn btn-success b-btn mt-4'>Play</Link>
               </div>
             </div>
         </div> 
