@@ -1,8 +1,11 @@
 PODMON: An online podcast platform responsive website Podmon for podcast enthusiasts.
+
 ● The web application lets users browse, upload their own podcasts after making an account and
 listen to other creator’s podcasts.
+
 ● Created by using React, HTML, CSS, Bootstrap classes, JavaScript for frontend and a Node.js
 backend with MongoDB database.
+
 
 ![Screenshot 2023-02-20 at 10 55 13 PM](https://github.com/user-attachments/assets/63dc0c1a-477c-4519-9b8c-b323ebf7cbcb)
 
